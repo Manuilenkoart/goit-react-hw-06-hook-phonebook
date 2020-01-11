@@ -1,0 +1,1 @@
+{"version":3,"sources":["ContactList.module.css"],"names":[],"mappings":"AAAA,gCACE,kBACF,CACA,sCACE,iBACF","file":"main.37f1a7db.chunk.css","sourcesContent":[".contactList {\r\n  margin-bottom: 10px;\r\n}\r\n.contactListNumber {\r\n  margin-right: 20px;\r\n}\r\n"]}
